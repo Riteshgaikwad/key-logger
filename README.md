@@ -38,11 +38,11 @@ We welcome contributions to this project! Feel free to fork the repository and s
 
 ### Author
 
-* [Ritesh Gaikwad] ([https://github.com/Riteshgaikwad])
+* [Ritesh Gaikwad] [https://github.com/Riteshgaikwad]
 
 ### Demo
 
-[https://riteshgaikwad.github.io/Guessing-Game/]
+[https://riteshgaikwad.github.io/key-logger/]
 
 **Code Snippets**
 
